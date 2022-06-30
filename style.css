@@ -66,13 +66,20 @@ p {
     padding-right: 90px;
 }
 
+#line {
+    width: 568px;
+    border: 1px solid #00BFA6;
+    margin: 0 auto 27px;
+    margin-top: 157px;
+}
+
 
 footer p {
     color: white;
 
     text-align: center;
 
-    padding-top: 198px;
+    padding-top: 27px;
     
 }
 
