@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background: #2F2E41;
+    
+}
+
+#titulo {
+    color: white;
+    font-family: 'JetBrains Mono';
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+nav ul li a {
+    font-family: 'JetBrains Mono', monospace;
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    gap: 48px;
+    list-style: none;
+    padding: 0px;
+}
+
+#imagem-central {
+    padding-left: 100px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 100px 100px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+span {
+    color: #00BFA6;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+p {
+    color: #C2C2C2;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-right: 90px;
+}
+
+
+footer p {
+    color: white;
+
+    text-align: center;
+
+    padding-top: 198px;
+    
+}
+
+#cadeado {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
