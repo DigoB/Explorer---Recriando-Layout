@@ -35,10 +35,11 @@ header {
     padding: 70px 100px 100px;
 }
 
-main {
+section {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0 70px;
 }
 
 h1 {
@@ -74,12 +75,11 @@ p {
 }
 
 
-footer p {
+footer {
     color: white;
-
     text-align: center;
 
-    padding-top: 27px;
+    margin: auto;
     
 }
 
